@@ -1,3 +1,3 @@
 # cronograma-app
-Uma aplicação simples criada para avaliação de eficiência na matéria de Programação Orientada a Objetos II, ministrada pelo docente Paulo Henrique Tenório. <br><br>
-Consiste em criar uma lista de afazeres para determinado usuário, listando data e hora de suas tarefas e gerar um documento de texto para cada um deles.
+
+A simple application, created to avaliate my performance at Oriented Objected classes. Consists in create a to-do list to a user, listing the datetime and generate a .txt doc for each one. 
